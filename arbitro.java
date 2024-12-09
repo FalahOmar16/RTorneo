@@ -6,6 +6,7 @@ public class Arbitro {
     }
 
     public void iniziaTorneo() {
+        System.out.println("output C");
         System.out.println("Il torneo sta iniziando");
         torneo.inizia();
     }
