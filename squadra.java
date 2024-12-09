@@ -3,7 +3,7 @@ public class Squadra {
     private int goal;
     private int passaggi;
 
-    public Squadra(String nome) {
+    public Squadra(String nome) {        
         this.nome = nome;
         this.goal = 0;
         this.passaggi = 0;
