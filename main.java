@@ -1,3 +1,7 @@
+/**
+*@author Omar
+*@see scheda esercitazione
+*/
 public class Main {
     public static void main(String[] args) {
         Torneo torneo = new Torneo();
